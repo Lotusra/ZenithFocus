@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Id": "zen_focus",
+        "Name": "Zen Focus",
+        "Description": "Automatically minimize previous window when switching focus (smart fullscreen detection, split-safe)",
+        "Version": "1.0",
+        "License": "MIT",
+        "Authors": [
+            {
+                "Name": "Louki"
+            }
+        ]
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "contents/code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
