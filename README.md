@@ -1,0 +1,1 @@
+Zen_focus 1.4 is a lightweight script that keeps focus on a single active window. Unlike basic focus-lock tools, it also supports tiling layouts such as split view or quarter tiling, giving users flexibility to arrange multiple windows side by side while still maintaining a distraction-free workflow.
