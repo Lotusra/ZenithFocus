@@ -1,1 +1,3 @@
 ZenithFocus 1.4 is a lightweight script that locks attention on a single active window while still giving you freedom to tile your workspace. Whether you prefer split view or quarter tiling, ZenithFocus ensures clarity and productivity without sacrificing flexibility.
+
+Tested on KDE Plasma 6.6
